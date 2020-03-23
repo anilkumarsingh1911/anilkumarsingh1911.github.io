@@ -32,7 +32,6 @@ tools & software
 ================
 - git
 - github
-- bootstrap
 - webstrom
 - vscode
 - firebase
