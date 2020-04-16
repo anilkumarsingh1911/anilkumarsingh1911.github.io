@@ -14,6 +14,7 @@
     mysql
     php
     phpstrom
+	wordpress
 
 ## web development
     html
@@ -42,5 +43,4 @@
     github
     g-suite
     ms-office
-    wordpress
     firebase
