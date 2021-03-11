@@ -4,7 +4,16 @@ Test Version live at https://anilkumarsingh1911.github.io/yukti21
 
 ### Tasks:
 
- Task | Assigned to | Status | Remarks
+Task | Assigned to | Status | Remarks
+---- | ------------ |----- | ------
+Clean up Template | [jasrajsb](https://github.com/jasrajsb) | Work in Progress | NA
+Update content inside ```<head>``` | [jasrajsb](https://github.com/jasrajsb) | Assigned | NA
+Update content of ```Home Section``` | [jasrajsb](https://github.com/jasrajsb) | Assigned | NA
+Update content of ```About Section``` | [isha-jain-123](https://github.com/isha-jain-123) | Assigned | NA
+Create a ```Registration Section``` | [jasrajsb](https://github.com/jasrajsb) | Assigned | NA
+Update content of ```Footer``` | [jasrajsb](https://github.com/jasrajsb) | Assigned | NA
+
+<!-- Task | Assigned to | Status | Remarks
 ---- | ------------ |----- | ------
  Update content inside ```<head>``` | [jasrajsb](https://github.com/jasrajsb) | Work in Progress | NA
  Update content of ```Home Section``` | [jasrajsb](https://github.com/jasrajsb) | Assigned | NA
@@ -15,6 +24,6 @@ Test Version live at https://anilkumarsingh1911.github.io/yukti21
  Update content of ```Hotels Section``` | [isha-jain-123](https://github.com/isha-jain-123) | Assigned | NA
  Update content of ```Gallery Section``` | [isha-jain-123](https://github.com/isha-jain-123) | Assigned | NA
  Update content of ```Sponsors Section``` | [isha-jain-123](https://github.com/isha-jain-123) | Assigned | NA
- Update content of ```Contact Section``` | [isha-jain-123](https://github.com/isha-jain-123) | Assigned | NA
+ Update content of ```Contact Section``` | [isha-jain-123](https://github.com/isha-jain-123) | Assigned | NA-->
  
 
