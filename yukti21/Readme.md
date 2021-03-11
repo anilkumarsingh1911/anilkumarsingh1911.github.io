@@ -6,7 +6,8 @@ Test Version live at https://anilkumarsingh1911.github.io/yukti21
 
 Task | Assigned to | Status | Remarks
 ---- | ------------ |----- | ------
-Update content inside ```<head>``` | [jasrajsb](https://github.com/jasrajsb) | Work in Progress | NA
+Clean up Template | [jasrajsb](https://github.com/jasrajsb) | Work in Progress | NA
+Update content inside ```<head>``` | [jasrajsb](https://github.com/jasrajsb) | Assigned | NA
 Update content of ```Home Section``` | [jasrajsb](https://github.com/jasrajsb) | Assigned | NA
 Update content of ```About Section``` | [isha-jain-123](https://github.com/isha-jain-123) | Assigned | NA
 Create a ```Registration Section``` | [jasrajsb](https://github.com/jasrajsb) | Assigned | NA
