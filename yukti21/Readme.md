@@ -15,9 +15,16 @@ Update content of ```Footer``` | [jasrajsb](https://github.com/jasrajsb) | Compl
 Add new Tabs to ```Menu``` | [jasrajsb](https://github.com/jasrajsb) | Assigned | NA | March 13, 2021 
 Create ```Virtual Industry Tour Section``` | TBD | Not yet Assigned | NA | NA
 Create ```Corpcomp Section``` | TBD | Not yet Assigned | NA | NA
+<<<<<<< Updated upstream
 Create ```Workshop Section``` | [isha-jain-123](https://github.com/isha-jain-123) | In progress | NA | NA
 Create ```Guest Talk Section``` | [isha-jain-123](https://github.com/isha-jain-123) | In progress | NA | NA
 Create ```Job Fair Section``` | [isha-jain-123](https://github.com/isha-jain-123) | In progress | NA | NA
+=======
+Create ```Workshop Section``` | TBD | Not yet Assigned | NA | NA
+Create ```Guest Talk Section``` | TBD | Not yet Assigned | NA | NA
+Create ```Job Fair Section``` | TBD | Not yet Assigned | NA | NA
+Link new Menu Items to respective Sections | [jasrajsb](https://github.com/jasrajsb)  | Assigned | waiting for creation of sections | NA
+>>>>>>> Stashed changes
 
 <!-- Task | Assigned to | Status | Remarks
 ---- | ------------ |----- | ------
