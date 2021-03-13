@@ -13,11 +13,11 @@ Update content of ```About Section``` | [isha-jain-123](https://github.com/isha-
 Create a ```Registration Section``` | [jasrajsb](https://github.com/jasrajsb) | Completed | Check commit: [7271763](https://github.com/anilkumarsingh1911/anilkumarsingh1911.github.io/commit/72717634333266dc1e153eeea24d0c4e2bbcc5c3) | Completed
 Update content of ```Footer``` | [jasrajsb](https://github.com/jasrajsb) | Completed | Check commit: [cc8f039](https://github.com/anilkumarsingh1911/anilkumarsingh1911.github.io/commit/cc8f03948ae51d1ee676686932bdaaa855fb4c9f) | Completed
 Add new Tabs to ```Menu``` | [jasrajsb](https://github.com/jasrajsb) | Completed | Check commit: [df59ddf](https://github.com/anilkumarsingh1911/anilkumarsingh1911.github.io/commit/df59ddfbfca247e41c405e3e2380989e2cb1e1f8#diff-7235bc0ef98423e1ad512556006be4f32dc12efbfc28fb872bc9a775b20cdd29) | Completed
-Create ```Virtual Industry Tour Section``` | TBD | Not yet Assigned | NA | March 14, 2021 
-Create ```Corpcomp Section``` | TBD | Not yet Assigned | NA | March 14, 2021 
-Create ```Workshop Section``` | [isha-jain-123](https://github.com/isha-jain-123) | In progress | NA | NA
-Create ```Guest Talk Section``` | [isha-jain-123](https://github.com/isha-jain-123) | In progress | NA | NA
-Create ```Job Fair Section``` | [isha-jain-123](https://github.com/isha-jain-123) | In progress | NA | NA
+Create ```Virtual Industry Tour Section``` | TBD | Completed (styling left) | Check Commit: [6df3f36](https://github.com/anilkumarsingh1911/anilkumarsingh1911.github.io/commit/6df3f36d27b9b13c8a0a54f4deef541cca6d09e5) | March 14, 2021 
+Create ```Corpcomp Section``` | TBD | Completed(styling left) | Check Commit: [6df3f36](https://github.com/anilkumarsingh1911/anilkumarsingh1911.github.io/commit/6df3f36d27b9b13c8a0a54f4deef541cca6d09e5) | March 14, 2021 
+Create ```Workshop Section``` | [isha-jain-123](https://github.com/isha-jain-123) | Completed(styling left) | Check Commit: [2e8ffac](https://github.com/anilkumarsingh1911/anilkumarsingh1911.github.io/commit/2e8ffac50ce17e135ee06665242d3a5fecd18791#diff-7235bc0ef98423e1ad512556006be4f32dc12efbfc28fb872bc9a775b20cdd29) | NA
+Create ```Guest Talk Section``` | [isha-jain-123](https://github.com/isha-jain-123) | Completed(styling left) | Check Commit: [2e8ffac](https://github.com/anilkumarsingh1911/anilkumarsingh1911.github.io/commit/2e8ffac50ce17e135ee06665242d3a5fecd18791#diff-7235bc0ef98423e1ad512556006be4f32dc12efbfc28fb872bc9a775b20cdd29) | NA
+Create ```Job Fair Section``` | [isha-jain-123](https://github.com/isha-jain-123) | Completed(styling left) | Check Commit: [2e8ffac](https://github.com/anilkumarsingh1911/anilkumarsingh1911.github.io/commit/2e8ffac50ce17e135ee06665242d3a5fecd18791#diff-7235bc0ef98423e1ad512556006be4f32dc12efbfc28fb872bc9a775b20cdd29) | NA
 Link new Menu Items to respective Sections | [jasrajsb](https://github.com/jasrajsb)  | Assigned | waiting for creation of sections | NA
 
 
