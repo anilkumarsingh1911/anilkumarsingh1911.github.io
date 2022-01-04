@@ -37,7 +37,7 @@
   ======================================================== -->
 </head>
 
-<body>
+<body onload="myFunction()">
 
   <!-- ======= Mobile nav toggle button ======= -->
   <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
@@ -117,9 +117,7 @@
               </div>
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i>
-                    <button class="btn btn-outline-primary btn-sm" onclick="nameAge()"> <b>Age:</b> </button> &nbsp;
-                    &nbsp;
+                  <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong>
                     <p id="age"></p>
                   </li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong>
@@ -658,3 +656,12 @@
 </body>
 
 </html>
+
+
+<script>
+
+  function myFunction() {
+    console.log("function starts");
+    nameAge();
+  }
+</script>
