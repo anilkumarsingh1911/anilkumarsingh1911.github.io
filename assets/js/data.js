@@ -1,17 +1,20 @@
-function emp() {
-  let text = '{"employees":[' +
-    '{"firstName":"John","lastName":"Doe" },' +
-    '{"firstName":"Anna","lastName":"Smith" },' +
-    '{"firstName":"Peter","lastName":"Jones" } ' +
-    ']}';
-
-  const obj = JSON.parse(text);
-
-  let data = "";
-  for (let i = 0; i < 3; i++) {
-    data += obj.employees[i].firstName + " " + obj.employees[i].lastName + "<br>";
-  }
-
-  document.getElementById("demo").innerHTML = data;
-
-}
+let emp = [
+  {
+    id: 1,
+    fname: 'anil',
+    lname: 'kumar',
+    age: 33,
+  },
+  {
+    id: 2,
+    fname: 'soni',
+    lname: 'rani',
+    age: 22,
+  },
+  {
+    id: 3,
+    fname: 'moni',
+    lname: 'sharma',
+    age: 44,
+  },
+]

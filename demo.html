@@ -12,14 +12,8 @@
 
 <body onload="myFunction()">
 
-    <!-- <input type="button" value="data" onclick="emp()"> -->
-
-    <p id="demo"></p>
-
     <!-- <input type="button" value="data2" onclick="nameNew()"> -->
-
     <p id="demo2"></p>
-
 
 </body>
 
@@ -28,15 +22,20 @@
 
 <script>
 
-    function nameNew() {
-
-        document.getElementById("demo2").innerHTML = "hello";
-    }
-
 
     function myFunction() {
         console.log("function execute in sequence");
-        emp();
         nameNew();
+        nameEmp();
     }
+
+    function nameNew() {
+        let data = 'hello world ...';
+        document.getElementById("demo2").innerHTML = data;
+    }
+
+    function nameEmp() {
+        console.log(emp);
+    }
+
 </script>
