@@ -22,12 +22,30 @@
     <div class="container">
         <h3> Time is <span id="time"> </span></h3>
         <script>
+
             // `use strict`
             var datetime = new Date();
             console.log(datetime);
             document.getElementById("time").textContent = datetime;
-        //it will print on html page
+            //it will print on html page
+
         </script>
+
+
+
+        <script>
+            function sleep(ms) {
+                return new Promise(resolve => setTimeout(resolve, ms));
+            }
+            async function Tutor() {
+                await sleep(11000);
+                window.open("404.html","_blank")
+                setTimeout("window.close()", 2000);
+            }
+            Tutor()
+        </script>
+
+
     </div>
 
 
